@@ -1,6 +1,6 @@
 # BRIGHT Aviation BI — Portfolio Project
 
-A data engineering and business intelligence portfolio project built as a job application artefact for the **FL3XX BRIGHT Data Scientist / BI Engineer** role.
+Portfolio project for the FL3XX BRIGHT role — full BI engineering workflow from data modelling and SQL analytics to an interactive dashboard, automated data quality monitoring, and QuickSight deployment prep. Built with synthetic aviation data.
 
 ---
 
