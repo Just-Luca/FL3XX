@@ -2,8 +2,7 @@
 Aviation BI — SQL Analytics Layer
 ===================================
 Loads the synthetic CSVs into DuckDB, builds a clean view layer,
-then runs analytical queries covering the Key Performance Indicators (KPIs) FL3XX's BRIGHT platform
-exposes: fleet utilization, revenue, crew duty compliance, route performance.
+then runs analytical queries covering the Key Performance Indicators (KPIs) FL3XX's BRIGHT platform exposes: fleet utilization, revenue, crew duty compliance, route performance.
 
 Structure:
   1. Load raw CSVs as DuckDB tables
